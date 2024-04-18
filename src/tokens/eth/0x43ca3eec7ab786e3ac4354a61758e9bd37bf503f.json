@@ -1,0 +1,35 @@
+{
+"symbol": "ATC",
+"name": "AQUATONE",
+"type": "ERC20",
+"address": "0x43ca3eec7ab786e3ac4354a61758e9bd37bf503f",
+"ens_address": "",
+"decimals": 18,
+"website": "https://aquatone.io",
+"logo": {
+"src": "https://aquatone.io/wp-content/uploads/2024/04/logoETHscan.png",
+"width": "32px",
+"height": "32px",
+"ipfs_hash": ""
+},
+"support": {
+"email": "support@aquatone.io",
+"url": "https://aquatone.io"
+},
+"social": {
+"blog": "https://youengine.io/chat",
+"chat": "https://t.me/communityATC",
+"discord": "https://discord.gg/ufRya7bj96",
+"facebook": "",
+"forum": "",
+"github": "https://github.com/mrATCdaddy",
+"gitter": "",
+"instagram": "",
+"linkedin": "",
+"reddit": "",
+"slack": "",
+"telegram": "https://t.me/aquatonecoin",
+"twitter": "https://twitter.com/mrATCmeme",
+"youtube": ""
+}
+}
